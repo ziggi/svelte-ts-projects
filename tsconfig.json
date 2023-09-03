@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+  },
+  "files": [],
+  "references": [
+    { "path": "./proj1/tsconfig.proj1.json" },
+    { "path": "./proj2/tsconfig.proj2.json" },
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
